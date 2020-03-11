@@ -1,0 +1,9 @@
+C:\Users\admin\Desktop\ffpeg to mp4\ffpeg to mp4\bin\Release\ffpeg to mp4.exe.config
+C:\Users\admin\Desktop\ffpeg to mp4\ffpeg to mp4\bin\Release\ffpeg to mp4.exe
+C:\Users\admin\Desktop\ffpeg to mp4\ffpeg to mp4\bin\Release\ffpeg to mp4.pdb
+C:\Users\admin\Desktop\ffpeg to mp4\ffpeg to mp4\obj\Release\ffpeg_to_mp4.Form1.resources
+C:\Users\admin\Desktop\ffpeg to mp4\ffpeg to mp4\obj\Release\ffpeg_to_mp4.Properties.Resources.resources
+C:\Users\admin\Desktop\ffpeg to mp4\ffpeg to mp4\obj\Release\ffpeg to mp4.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\ffpeg to mp4\ffpeg to mp4\obj\Release\ffpeg to mp4.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\ffpeg to mp4\ffpeg to mp4\obj\Release\ffpeg to mp4.exe
+C:\Users\admin\Desktop\ffpeg to mp4\ffpeg to mp4\obj\Release\ffpeg to mp4.pdb
